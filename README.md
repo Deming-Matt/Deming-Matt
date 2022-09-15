@@ -5,9 +5,9 @@ Software Developer | Career Changer | Avid Volleyball Player 🏐 & Past D2 Coll
 📫 How to reach me: deming.matthewc@gmail.com  
 💬 Ask me about volleyball anytime of the day!  
 
-🌱 I’m currently learning GraphQL | Python  
+🌱 I’m currently learning ![GraphQL](https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white&style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=white&style=for-the-badge)  
 👯 I’m looking to collaborate on
-| !https://img.shields.io/badge/Rails-red?logo=rubyonrails&logoColor=white&style=for-the-badge | Ruby | RSpec | Postman | Heroku | PostgresQL | 
+  ![RoR](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white&style=for-the-badge) | ![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku&logoColor=white&style=for-the-badge) | ![PostgresQL](https://img.shields.io/badge/PostgresQL-blue?logo=postgresql&logoColor=white&style=for-the-badge) | 
 
 
 

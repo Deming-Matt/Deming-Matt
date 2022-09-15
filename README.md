@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Matt Deming (He/Him)
+
+Software Developer | Career Changer | Avid Volleyball Player & Past D2 Collegiate Assistant Coach
+
+📫 How to reach me: deming.matthewc@gmail.com 
+💬 Ask me about volleyball anytime of the day!
+
+🌱 I’m currently learning GraphQL | Python
+👯 I’m looking to collaborate on
+| Rails | Ruby | RSpec | Postman | Heroku | PostgresQL | 
+
 
 <!--
 **Deming-Matt/Deming-Matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

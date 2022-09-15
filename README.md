@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Matt Deming (He/Him)
 
-Software Developer | Career Changer | Avid Volleyball Player & Past D2 Collegiate Assistant Coach
+Software Developer | Career Changer | Avid Volleyball Player 🏐 & Past D2 Collegiate Assistant Coach 📋
 
-📫 How to reach me: deming.matthewc@gmail.com 
-💬 Ask me about volleyball anytime of the day!
+📫 How to reach me: deming.matthewc@gmail.com  
+💬 Ask me about volleyball anytime of the day!  
 
-🌱 I’m currently learning GraphQL | Python
+🌱 I’m currently learning GraphQL | Python  
 👯 I’m looking to collaborate on
-| Rails | Ruby | RSpec | Postman | Heroku | PostgresQL | 
+| https://img.shields.io/badge/Rails-red?logo=rubyonrails&logoColor=white&style=for-the-badge | Ruby | RSpec | Postman | Heroku | PostgresQL | 
+
 
 
 <!--

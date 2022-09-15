@@ -7,7 +7,7 @@ Software Developer | Career Changer | Avid Volleyball Player 🏐 & Past D2 Coll
 
 🌱 I’m currently learning GraphQL | Python  
 👯 I’m looking to collaborate on
-| https://img.shields.io/badge/Rails-red?logo=rubyonrails&logoColor=white&style=for-the-badge | Ruby | RSpec | Postman | Heroku | PostgresQL | 
+| !https://img.shields.io/badge/Rails-red?logo=rubyonrails&logoColor=white&style=for-the-badge | Ruby | RSpec | Postman | Heroku | PostgresQL | 
 
 
 
